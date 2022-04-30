@@ -1,0 +1,4 @@
+[02-Feb-2022 13:10:25 Asia/Kolkata] PHP Warning:  require(/home/un6sgsp9mvtw/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/un6sgsp9mvtw/public_html/index.php on line 10
+[02-Feb-2022 13:10:25 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required '/home/un6sgsp9mvtw/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/un6sgsp9mvtw/public_html/index.php on line 10
+[02-Feb-2022 13:11:15 Asia/Kolkata] PHP Warning:  require(/home/un6sgsp9mvtw/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/un6sgsp9mvtw/public_html/index.php on line 10
+[02-Feb-2022 13:11:15 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required '/home/un6sgsp9mvtw/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/un6sgsp9mvtw/public_html/index.php on line 10
